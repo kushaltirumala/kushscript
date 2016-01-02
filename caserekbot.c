@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	puts("Click Ctrl-C to quit the rekage");
 
 	while(1) {
-		fputs("kushalrekbot> ", stdout);
+		fputs("caserekbot> ", stdout);
 		fgets(input, 2048, stdin);
 		if (strcmp(input, "") == 0) {
 			printf("c is empty please enter an adjective\n");
