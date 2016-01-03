@@ -19,7 +19,6 @@ int main(int argc, char** argv) {
 			printf("Get rekt case\n");
 		}
 	}
-
 	return 0;
 }
 
